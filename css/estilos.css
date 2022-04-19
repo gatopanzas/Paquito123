@@ -1,0 +1,43 @@
+#fotito{
+    width: 350px;
+    height: 60px;
+}
+
+.nav-link{
+    font-weight: bold;
+}
+
+#mensajeverde{
+    padding: 20px;
+}
+
+.col{
+    padding-top: 10px;
+}
+
+#contribucion{
+    width: 100%;
+}
+
+#video{
+    width: 1500px;
+    height: 550px;
+    padding-left: 30px;
+}
+
+#carabinerosfoto{
+    padding-left: 118px;
+}
+
+#fotitofinal{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#textofinal{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    width: 100%;
+}
